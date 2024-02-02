@@ -1,0 +1,143 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.75), rgba(0,0,0,0.75)), url("images/TNB-Classic-spread.jpg");
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1214px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 454px;
+  height: 454px;
+  background-image: url("images/The-Night-Baker-Mitch-and-Leanne_2-01-1080x982.png");
+  background-position: 50% 50%;
+  margin: 108px auto 0 17px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  font-style: normal;
+  font-size: 3rem;
+  margin: -454px 105px 0 auto;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.25rem;
+  font-weight: 400;
+  margin: 32px 54px 0 500px;
+}
+
+.u-section-1 .u-video-1 {
+  height: 500px;
+  margin-top: 108px;
+  margin-bottom: 60px;
+}
+
+.u-section-1 .embed-responsive-1 {
+  position: absolute;
+}
+
+@media (max-width: 1199px) {
+   .u-section-1 {
+    background-position: 50% 50%;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 1655px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: 73px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: 75px;
+    margin-right: auto;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 749px;
+    margin-top: 45px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-1 .u-video-1 {
+    margin-top: 75px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-image-1 {
+    margin-top: 94px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 60px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+    margin-top: 32px;
+  }
+
+  .u-section-1 .u-video-1 {
+    margin-top: 82px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 2118px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: 71px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 52px;
+    margin-left: 28px;
+    margin-right: 28px;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 1.875rem;
+    margin-top: 23px;
+  }
+
+  .u-section-1 .u-video-1 {
+    margin-top: 69px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 2266px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: 52px;
+    height: 340px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 43px;
+    margin-left: 19px;
+    margin-right: 19px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 19px;
+  }
+
+  .u-section-1 .u-video-1 {
+    height: 422px;
+    margin-top: 84px;
+  }
+}

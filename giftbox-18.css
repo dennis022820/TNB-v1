@@ -1,0 +1,125 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 1643px;
+}
+
+.u-section-1 .u-product-1 {
+  min-height: 1510px;
+  margin-top: 109px;
+  margin-bottom: 24px;
+  height: auto;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 0 0 30px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 486px;
+  height: 486px;
+  background-image: url("images/BB_18-01-1024x1002-300x300.png");
+  background-position: 50% 50%;
+  margin: 30px auto 0 30px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: -473px 172px 0 auto;
+}
+
+.u-section-1 .u-product-price-1 {
+  margin: 13px 466px 0 auto;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 0.875rem;
+  margin: 9px 51px 0 592px;
+}
+
+.u-section-1 .u-line-1 {
+  width: 69px;
+  transform-origin: left center 0px;
+  margin: 13px 479px 0 auto;
+}
+
+.u-section-1 .u-text-3 {
+  font-size: 0.875rem;
+  line-height: 1.7;
+  letter-spacing: 3px;
+  font-weight: 700;
+  margin: 15px 368px 0 680px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-product-price-1 {
+    margin-right: 266px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 0;
+    margin-left: 443px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 268px;
+    margin-left: 580px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-product-price-1 {
+    margin-right: 46px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 223px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 158px;
+    margin-left: 470px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-product-price-1 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 43px;
+  }
+
+  .u-section-1 .u-line-1 {
+    margin-right: 471px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 68px;
+    margin-left: 380px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 340px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -327px;
+    margin-right: 108px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-line-1 {
+    margin-right: 271px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 0;
+    margin-left: 248px;
+  }
+}
